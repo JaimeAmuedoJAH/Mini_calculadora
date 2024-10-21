@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Mini_Calculadora</string>
+    <string name="numero0">0</string>
+    <string name="numero1">1</string>
+    <string name="numero2">2</string>
+    <string name="numero3">3</string>
+    <string name="numero4">4</string>
+    <string name="numero5">5</string>
+    <string name="numero6">6</string>
+    <string name="numero7">7</string>
+    <string name="numero8">8</string>
+    <string name="numero9">9</string>
+    <string name="botonMas">+</string>
+    <string name="botonMenos">-</string>
+    <string name="botonDivision">/</string>
+    <string name="botonMultiplicacion">X</string>
+    <string name="botonIgual">=</string>
+    <string name="botonMasMenos">+-</string>
+    <string name="botonPunto">.</string>
+    <string name="botonRoot">Root</string>
+    <string name="botonInv">Inv</string>
+    <string name="botonBorrar">AC</string>
+    <string name="ERROR">ERROR</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="txtMostrar">#8A1F9B</color>
+    <color name="fondoMostrar">#E4EF9A</color>
+    <color name="fondoBotonesNumeros">#3048D0</color>
+    <color name="fondoBotonesOperaciones">#27A229</color>
+    <color name="botonesRootInv">#141E66</color>
+    <color name="botonesAC">#D12023</color>
+</resources>
